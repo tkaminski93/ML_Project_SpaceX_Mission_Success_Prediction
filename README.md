@@ -28,7 +28,7 @@ The primary goal of this project is to predict whether the first stage of a Spac
 - [7_Build_an_Interactive_Dashboard_with_Plotly_Dash](/Notebooks/7_Build_an_Interactive_Dashboard_with_Ploty_Dash.py): Creating a web-based dashboard to analyze the impact of payload mass on landing success for specific sites.
 ![Success vs. Specific Sites](/Images/success_vs_specific_sites.png)
 *The picture below shows a pie chart when launch site CCAFS SLC-40 is chosen in the dropdown menu on the website. *
-![Class vs. Payload Mass](/Images/class_vs_payloadmass.png)
+![Class vs. Payload Mass](/Images/class_vs_payloadmass_.png)
 *The picture below shows a scatter plot  when the payload mass range is set to be from 0kg to 9600kg.* 
 
 **4. Predictive Modeling**
